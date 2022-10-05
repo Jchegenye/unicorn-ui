@@ -1,0 +1,29 @@
+{
+  "name": "@betika/unicon-ui",
+  "version": "1.0.0",
+  "description": "The Betika Unicorn Design System ncludes the resources to create user interfaces consistent with the Betika Unicorn principles, design language, and best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "keywords": [
+    "unicorn"
+  ],
+  "author": "Betika Front-end Engineers",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@storybook/addon-actions": "^6.5.12",
+    "@storybook/addon-essentials": "^6.5.12",
+    "@storybook/addon-interactions": "^6.5.12",
+    "@storybook/addon-links": "^6.5.12",
+    "@storybook/builder-webpack4": "^6.5.12",
+    "@storybook/html": "^6.5.12",
+    "@storybook/manager-webpack4": "^6.5.12",
+    "@storybook/testing-library": "^0.0.13",
+    "babel-loader": "^8.2.5",
+    "chromatic": "^6.10.1"
+  }
+}
