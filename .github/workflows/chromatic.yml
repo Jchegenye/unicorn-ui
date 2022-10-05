@@ -1,4 +1,4 @@
-# .github/workflows/chromatic.yml
+#.github/workflows/chromatic.yml
 
 # Workflow name
 name: "Chromatic Publish"
